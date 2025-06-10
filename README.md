@@ -134,7 +134,7 @@ Terminal con ejecución del script
 
 - IP de destino
 
-**Mensaje "Hola" transmitido
+- Mensaje "Hola" transmitido
 
 ---
 
