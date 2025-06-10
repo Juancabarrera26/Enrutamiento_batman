@@ -85,17 +85,17 @@ Para validar la conexión se implementó un pequeño sistema de chat usando sock
 
 ---
 
-** https://github.com/Juancabarrera26/Parcial_redes/blob/main/chat_batman.py
+- https://github.com/Juancabarrera26/Parcial_redes/blob/main/chat_batman.py
 
 ## Explicacion del codigo:
 
-** Usa la IP BATMAN del nodo local como origen.
+- Usa la IP BATMAN del nodo local como origen.
 
-** Abre un socket UDP en el puerto 5005.
+- Abre un socket UDP en el puerto 5005.
 
-** Escucha en un hilo aparte todos los mensajes entrantes.
+- Escucha en un hilo aparte todos los mensajes entrantes.
 
-** Permite enviar mensajes a otras IPs BATMAN activas.
+- Permite enviar mensajes a otras IPs BATMAN activas.
 
 ```python
 import socket
@@ -130,9 +130,9 @@ A continuacion se agregaran las capturas de pantalla de cada nodo, mostrando:
 
 Terminal con ejecución del script
 
-**IP de origen
+- IP de origen
 
-**IP de destino
+- IP de destino
 
 **Mensaje "Hola" transmitido
 
@@ -140,10 +140,10 @@ Terminal con ejecución del script
 
 ## Conclusiones
 
-**El protocolo B.A.T.M.A.N. permitio una comunicacion efectiva multi-hop sin depender de routers o acceso a internet.
+- El protocolo B.A.T.M.A.N. permitio una comunicacion efectiva multi-hop sin depender de routers o acceso a internet.
 
-**Los mensajes se reenviaron dinámicamente segun la calidad del enlace entre nodos vecinos.
+- Los mensajes se reenviaron dinámicamente segun la calidad del enlace entre nodos vecinos.
 
-**Se evidencio que cada computador (nodo) puede actuar como un intermediario en la entrega de informacion.
+- Se evidencio que cada computador (nodo) puede actuar como un intermediario en la entrega de informacion.
 
-**La red es escalable y resiliente ante fallos individuales.
+- La red es escalable y resiliente ante fallos individuales.
