@@ -2,7 +2,7 @@
 
 # Red ad-hoc con B.A.T.M.A.N. en Debian – Proyecto de Redes
 
-*Este repositorio documenta el desarrollo, configuración e implementación de una red mesh ad-hoc utilizando el protocolo de enrutamiento **B.A.T.M.A.N.** (Better Approach To Mobile Adhoc Networking) en dispositivos con **Debian Linux**. El objetivo fue establecer una comunicación **multi-hop** entre 4 computadores sin infraestructura central, simulando una red autónoma y auto-organizada.
+-Este repositorio documenta el desarrollo, configuración e implementación de una red mesh ad-hoc utilizando el protocolo de enrutamiento **B.A.T.M.A.N.** (Better Approach To Mobile Adhoc Networking) en dispositivos con **Debian Linux**. El objetivo fue establecer una comunicación **multi-hop** entre 4 computadores sin infraestructura central, simulando una red autónoma y auto-organizada.
 
 ---
 
