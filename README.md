@@ -97,9 +97,7 @@ Para validar la conexión se implementó un pequeño sistema de chat usando sock
 
 ** Permite enviar mensajes a otras IPs BATMAN activas.
 
-```
-python
-
+```python
 import socket
 import threading
 
